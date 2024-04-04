@@ -1,6 +1,6 @@
 # SHG-Analysis
 
-This repo contains the files and scripts used in my attempt at the Splendor Hotel Group Analysis. The idea behind this project is to demonstrate my SQL, Tableau, business intelligence skills.
+This repo contains the files and scripts used in my attempt at the Splendor Hotel Group Analysis. The idea behind this project is to demonstrate my SQL and business intelligence skills.
 
 ### DATA COLLECTION
 The dataset was made available by Uchenna Splendor along with the Project brief and Dataset above
